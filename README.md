@@ -1,4 +1,4 @@
-# TLO Pets API
+# Tutorial Pets API
 Criar uma api para cadastrar pets, proprietários e raças.
 
 ## Setup
